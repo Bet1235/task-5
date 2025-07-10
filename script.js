@@ -3,6 +3,17 @@ let lastName = 'Omeje'
 let fullName = firstName + ' ' + lastName;
 console.log(fullName.toUpperCase ())
  
+const initialName = 'Ebere'
+const finalName = 'Omeje'
+const completeName = initialName + ' ' + finalName;
+console.log(completeName.toLowerCase ())
+
+var startName = 'Ebere'
+var finishName = 'Omeje'
+var internName = startName + ' ' + finishName;
+console.log(internName)
+ 
+ 
 
 const taskOne = 9;
 
@@ -11,6 +22,23 @@ const taskTwo = 8;
 const taskThree = 8;
 
 console.log(taskOne, taskTwo, taskThree)
+
+// let taskOne = 9;
+
+// let taskTwo = 8;
+
+// let taskThree = 8;
+
+// console.log(taskOne, taskTwo, taskThree)
+
+var taskOne = 9;
+
+var taskTwo = 8;
+
+var taskThree = 8;
+
+console.log(taskOne, taskTwo, taskThree)
+
 
 
 let score = taskOne + taskTwo + taskThree;
@@ -24,6 +52,7 @@ console.log(sum)
 
 let mean = sum/result.length
 console.log(mean)
+
 const average = '8.333334';
 if(average>=9){
     console.log('A')
