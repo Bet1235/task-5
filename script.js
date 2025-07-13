@@ -17,7 +17,7 @@ console.log(internName)
 
 const taskOne = 9;
 
-const taskTwo = 8;
+const taskTwo = 9;
 
 const taskThree = 8;
 
@@ -25,19 +25,19 @@ console.log(taskOne, taskTwo, taskThree)
 
 // let taskOne = 9;
 
-// let taskTwo = 8;
+// let taskTwo = 9;
 
 // let taskThree = 8;
 
 // console.log(taskOne, taskTwo, taskThree)
 
-var taskOne = 9;
+// var taskOne = 9;
 
-var taskTwo = 8;
+// var taskTwo = 9;
 
-var taskThree = 8;
+// var taskThree = 8;
 
-console.log(taskOne, taskTwo, taskThree)
+// console.log(taskOne, taskTwo, taskThree)
 
 
 
@@ -53,7 +53,7 @@ console.log(sum)
 let mean = sum/result.length
 console.log(mean)
 
-const average = '8.333334';
+const average = '8.666667';
 if(average>=9){
     console.log('A')
 }else if(average>=8){
@@ -68,8 +68,8 @@ if(average>=9){
 
 let firtName = 'Ebere';
 let surName = 'Omeje';
-let subjectScore = '9, 8, 8';
-let averageScore = '8.34';
+let subjectScore = '9, 9, 8';
+let averageScore = '8.67';
 let grade = 'B';
 let message = 'could do better.'
 let answer = `I am ${firstName} ${surName} and my task scores are ${subjectScore} with an average of ${averageScore} giving me a ${grade} but I think I ${message}`;
